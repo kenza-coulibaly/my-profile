@@ -1,0 +1,97 @@
+body{
+	background-color: #DFCBB9;
+	color: black;
+	font-family: 'Lora';
+	font-size: 24px;
+	line-height: 1.75
+	letter-spacing: 10px;
+	font-weight: lighter;
+}
+p{
+	text-justify: center;
+	font-family: courier;
+}
+
+h1{
+	font-family; 'Roboto';
+	font-weight: 900;
+	font-size: 60px; 
+	color: #E23D28  ;
+}
+
+h2{
+	font-weight: 500;
+	font-size: 40px;
+	color: #C29979;
+}
+h3{
+	font-family; 'Roboto';
+	font-weight: 300;
+	text-justify: center;
+	font-size: 45px;
+	color: #E23D28;
+}
+a{
+	text-decoration: none;
+	color: #C29979;
+}
+a:hover {
+	color: #5F6057; 
+}
+
+
+
+.container {
+    background-color: #FCF6ED;
+    box-shadow: 0px 10px 30px #D7331D;
+    padding-top: 300
+    border-radius: 5px
+	width: 950px;
+	margin: 600px auto; 
+}
+
+
+.sub-banner {
+	background-color: #FCF6ED; 
+
+}
+
+
+
+
+
+ .bgchampagne {
+ background-color: #FCF6ED;
+ padding: 40px;
+ box-shadow: 0px 10px 30px #D7331D;
+ border-radius: 5px;
+ width: 850px;
+ margin: 40px auto; 
+
+ text-align: center
+ }
+
+
+
+.list-inline {
+		list-style: none;
+		padding-left: 0px;
+}
+
+.list-inline li {
+		display: inline;
+		padding: 10px; 
+
+}
+
+.list-inline i {
+		font-size:  50px;
+		color: #D8C0AB;
+}
+
+.list-inline i: hover { 
+color:  #D7331D;
+}
+
+
+
